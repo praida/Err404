@@ -1,0 +1,22 @@
+{
+  "name": "err404",
+  "version": "0.0.1",
+  "description": "404 error view for Praida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praida/Err404.git"
+  },
+  "author": "Shawn Inder <shawninder@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/praida/Err404/issues"
+  },
+  "homepage": "https://github.com/praida/Err404#readme",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
+}
